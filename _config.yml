@@ -17,7 +17,7 @@ title: Mark Magsino
 email: magsino.2@osu.edu
 description: "The Ohio State University / Department of Mathematics / MW 746"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://localhost:4000" 
+url: "https://memagsino.github.io"
 # Build settings
 markdown: kramdown
 theme: minima
