@@ -1,0 +1,17 @@
+---
+layout: page
+title: Misc
+permalink: /misc/
+---
+**Japanese Anime**
+
+I am an avid fan of Japanese anime. A rather long list of shows I've watched
+can be found at my personal 
+[MyAnimeList](https://myanimelist.net/animelist/Zelareth) page.
+
+**Gaming**
+
+I am also a big fan of gaming and esports. I mostly follow League of Legends
+and Counter-Strike: Global Offensive where my favorite teams are
+[Counter Logic Gaming](https://www.clg.gg/) and 
+[Team Liquid](https://www.teamliquid.com/) respectively.
