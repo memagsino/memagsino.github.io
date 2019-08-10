@@ -3,6 +3,9 @@ layout: page
 title: Research
 permalink: /research/
 ---
+[Google Scholar](https://scholar.google.com/citations?user=MIJKwSYAAAAJ&hl=en)
+<br/> [arXiv](https://arxiv.org/search/?searchtype=author&query=Magsino%2C+M)
+
 **Submitted**
 * [Kesten-McKay law for random subensembles of Paley equiangular tight 
 frames](https://arxiv.org/abs/1905.04360) 
