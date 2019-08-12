@@ -27,6 +27,11 @@ SU2013 [MATH 246: Introduction to and Classification of Differential Equations](
 
 Pre-Calculus, Calculus 1-2, Differential Equations
 
+**Undergradute Research Mentorship**
+
+* Abhishek Vijaykumar (current): TBA - Project on bianguar Gabor frames and
+Zauner's conjecture
+
 **Other Mentorship**
 
 I have also mentored two students for independent study projects through the
