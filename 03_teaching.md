@@ -30,12 +30,13 @@ Pre-Calculus, Calculus 1-2, Differential Equations
 **Undergradute Research Mentorship**
 
 * Abhishek Vijaykumar (current): TBA - Project on bianguar Gabor frames and
-Zauner's conjecture
+Zauner's conjecture <br/>
+(co-mentored with [Dustin G. Mixon](https://people.math.osu.edu/mixon.23/))
 
 **Other Mentorship**
 
-I have also mentored two students for independent study projects through the
-UMD Math Department's
+I have also mentored two undergraduate students for independent study projects 
+through the UMD Math Department's
 [Directed Reading Program](http://drp.math.umd.edu/):
 
 * Lauren Fox (2013): Markov Chains and the Ergodic Theorem

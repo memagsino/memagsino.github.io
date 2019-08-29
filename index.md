@@ -11,7 +11,8 @@ I am a Research Visiting Assistant Professor in the
 [Department of Mathematics](https://math.osu.edu/)
 at the Ohio State University. My research interests include frame theory,
 applied harmonic analysis, and
-signal and image processing.
+signal and image processing. Here is a link to my
+[CV]({{site.url}}/mmagsino_cv.pdf). (Last updated: 8/28/19)
 
 I received my PhD in 2018 at the 
 [University of Maryland](https://www-math.umd.edu/)

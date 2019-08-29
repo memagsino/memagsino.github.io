@@ -1,0 +1,9 @@
+---
+layout: page
+title: Conferences
+permalink: /conferences/
+---
+**Presentation Slides**
+* [Biangular Gabor Frames and Zauner's Conjecture]({{site.url}}/slides/mmagsino_spie_2019_mixon_ver.pdf)
+* [A Delsarte-Style Proof of the Bukh--Cox Bound]({{site.url}}/slides/mmagsino_siam_2019.pdf)
+* [Constructing Tight Gabor Frames Using CAZAC Sequences]({{site.url}}/slides/mmagsino_nwc_seminar.pdf)

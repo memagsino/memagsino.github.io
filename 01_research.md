@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Research
-permalink: /research/
+title: Publications
+permalink: /publications/
 ---
 [Google Scholar](https://scholar.google.com/citations?user=MIJKwSYAAAAJ&hl=en)
 <br/> [arXiv](https://arxiv.org/search/?searchtype=author&query=Magsino%2C+M)
