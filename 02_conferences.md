@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Presentations
-permalink: /presentations/
+title: Conferences
+permalink: /conferences/
 ---
 **Presentation Slides**
 * [Biangular Gabor Frames and Zauner's Conjecture]({{site.url}}/slides/mmagsino_spie_2019_mixon_ver.pdf)
