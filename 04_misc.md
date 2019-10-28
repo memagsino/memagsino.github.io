@@ -38,7 +38,7 @@ Other online games I've played or sometimes still play include
 and a large variety of MMOs 
 including [EverQuest](https://www.everquest.com/home)!
 I rarely stream, but on occasion I will stream some endgame FFXIV content or
-other random games on [Twitch](https://www.twitch.tv/zelareth).
+other random games on [Twitch](https://www.twitch.tv/prof_zelareth).
 
 I am also a fan of FromSoftware's games such as Armored Core and Dark Souls. 
 Though I play many genres of games, my favorite is JRPGs and my favorite series
