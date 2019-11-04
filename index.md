@@ -13,7 +13,7 @@ at the Ohio State University. My research main research area is
 pure and applied harmonic analysis. In particular, I study frame theory,
 optimal line packings, compressive sensing, with applications to areas such
 as data science as well as signal and image processing. Here is a link to my
-[CV]({{site.url}}/mmagsino_cv.pdf). (Last updated: 10/13/19)
+[CV]({{site.url}}/mmagsino_cv.pdf). (Last updated: 11/4/19)
 
 I received my PhD in 2018 at the 
 [University of Maryland](https://www-math.umd.edu/)
