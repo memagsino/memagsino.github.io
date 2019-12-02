@@ -41,3 +41,8 @@ through the UMD Math Department's
 
 * Lauren Fox (2013): Markov Chains and the Ergodic Theorem
 * Christopher Osterman (2016): A Philosophical Enquiry of ZFC
+
+I am also mentoring a high school student, Nathan Richardson, for a capstone
+math project. He is writing a textbook on fractal analysis aimed at
+recreational mathematicians. I will ask permission to host it here when
+it is finished so stay tuned!
