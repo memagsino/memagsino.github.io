@@ -7,13 +7,14 @@ Here is a list of courses I am currently teaching or have taught as a
 primary instructor. Only the
 most recent time teaching the course at each institution is indicated.
 
-**This semester (FA2019)**
+**This semester (SP2020)**
 
-[Math 3345: Foundations of Higher Mathematics](https://math.osu.edu/courses/3345)
-([Carmen](https://osu.instructure.com/courses/62631) link for students)
+[Math 2255: Differential Equations and Their Applications](https://math.osu.edu/courses/2255)
+([Carmen](https://osu.instructure.com/courses/72924) link for students)
 
 **The Ohio State University**
 
+FA2019 [Math 3345: Foundations of Higher Mathematics](https://math.osu.edu/courses/3345)
 SP2019 [Math 2415: Ordinary and Partial Differential Equations](https://math.osu.edu/courses/2415) <br/>
 FA2018 [Math 1172: Engineering Mathematics A](https://math.osu.edu/courses/1172)
 
