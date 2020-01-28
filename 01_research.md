@@ -21,7 +21,7 @@ frames](https://arxiv.org/abs/1905.04360)
 <br/> (with 
 [Dustin G. Mixon](https://people.math.osu.edu/mixon.23/)
 and [Hans Parshall](http://www.hansparshall.com/))
-Accepted pending minor revision, *Constructive Approximation*
+<br/> Accepted pending minor revision, *Constructive Approximation*
 
 * [Constructing tight Gabor frames 
 using CAZAC sequences](https://arxiv.org/abs/1611.00818)
