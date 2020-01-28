@@ -15,14 +15,14 @@ in compressive sensing with high probability.
 [Google Scholar](https://scholar.google.com/citations?user=MIJKwSYAAAAJ&hl=en)
 <br/> [arXiv](https://arxiv.org/search/?searchtype=author&query=Magsino%2C+M)
 
-**Submitted**
+**Journal Articles**
 * [Kesten-McKay law for random subensembles of Paley equiangular tight 
 frames](https://arxiv.org/abs/1905.04360) 
 <br/> (with 
 [Dustin G. Mixon](https://people.math.osu.edu/mixon.23/)
 and [Hans Parshall](http://www.hansparshall.com/))
+Accepted pending minor revision, *Constructive Approximation*
 
-**Journal Articles**
 * [Constructing tight Gabor frames 
 using CAZAC sequences](https://arxiv.org/abs/1611.00818)
 <br/>
@@ -34,7 +34,7 @@ using CAZAC sequences](https://arxiv.org/abs/1611.00818)
 [John J. Benedetto](https://www.math.umd.edu/~jjb/) and
 [Katherine Cordwell](http://www.cs.cmu.edu/~kcordwel/))
 <br/>
-to appear in *New Trends in Applied Harmonic Analysis, Volume II: 
+*New Trends in Applied Harmonic Analysis, Volume II: 
 Harmonic Analysis, Geometric Measure Theory, and Applications*, 2019
 
 **Conference Proceedings**
