@@ -13,7 +13,7 @@ at the Ohio State University. My research main research area is
 pure and applied harmonic analysis. In particular, I study frame theory,
 optimal line packings, compressive sensing, with applications to areas such
 as data science as well as signal and image processing. Here is a link to my
-[CV]({{site.url}}/mmagsino_cv.pdf). (Last updated: 11/4/19)
+[CV]({{site.url}}/mmagsino_cv.pdf). (Last updated: 5/19/20)
 
 I received my PhD in 2018 at the 
 [University of Maryland](https://www-math.umd.edu/)
@@ -23,7 +23,7 @@ years at
 [Carnegie Mellon University](https://www.cmu.edu/math/index.html), where I
 graduated in 2012 with a BS in Mathematics and Japanese Studies.
 
-I am from Franklin Park, NJ, and I am 
+I am from Franklin Park, NJ, and I am a first generation 
 [Filipino-American](http://fanhs-national.org/filam/). 
 My mom is from
 [Quezon City](https://en.wikipedia.org/wiki/Quezon_City) and my dad is from
