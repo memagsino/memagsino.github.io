@@ -9,13 +9,14 @@ Unless otherwise indicated, classes are taught as primary instructor.
 <br/>
 \* *denotes classes taught as a teaching assistant*
 
-**This semester (Spring 2020)**
+**This semester (Fall 2020)**
 
-[Math 2255: Differential Equations and Their Applications](https://math.osu.edu/courses/2255)
-([Carmen](https://osu.instructure.com/courses/72924) link for students)
+[Math 4551: Vector Analysis](https://math.osu.edu/courses/4551)
+([Carmen](https://osu.instructure.com/courses/85391) link for students)
 
 **The Ohio State University**
 
+Spring 2020 - [Math 2255: Differential Equations and Their Applications](https://math.osu.edu/courses/2255) <br/>
 Fall 2019 - [Math 3345: Foundations of Higher Mathematics](https://math.osu.edu/courses/3345) <br/>
 Spring 2019 - [Math 2415: Ordinary and Partial Differential Equations](https://math.osu.edu/courses/2415) <br/>
 Fall 2018 - [Math 1172: Engineering Mathematics A](https://math.osu.edu/courses/1172)
@@ -44,6 +45,10 @@ Fall 2012 - [21-120: Differential and Integral Calculus<sup>\*</sup>](http://cou
 * Abhishek Vijaykumar (Fall 2019): Project on bianguar Gabor frames and
 Zauner's conjecture <br/>
 
+* Katherine Cordwell (2017-18): "CAZAC Sequences and Haagerup's
+Characterization of Cyclic N-roots". Co-mentored with my Ph.D. advisor,
+John J. Benedetto.
+
 **Other Mentorship**
 
 I have also mentored two undergraduate students for independent study projects 
@@ -53,7 +58,7 @@ through the UMD Math Department's
 * Lauren Fox (2013): Markov Chains and the Ergodic Theorem
 * Christopher Osterman (2016): A Philosophical Enquiry of ZFC
 
-I am also mentoring a high school student, Nathan Richardson, for a capstone
-math project. He is writing a textbook on fractal analysis aimed at
+I also mentored a high school student, June Richardson, for a capstone
+math project. They are writing a textbook on fractal analysis aimed at
 recreational mathematicians. I will ask permission to host it here when
 it is finished so stay tuned!

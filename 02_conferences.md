@@ -8,8 +8,8 @@ permalink: /conferences/
 * [A Delsarte-Style Proof of the Bukh--Cox Bound]({{site.url}}/slides/mmagsino_siam_2019.pdf)
 * [Constructing Tight Gabor Frames Using CAZAC Sequences]({{site.url}}/slides/mmagsino_nwc_seminar.pdf)
 
-**Upcoming Session Organizing**
-* [AMS Spring Central Sectional Meeting (2020)](http://www.ams.org/meetings/sectional/2280_program.html)
+**Session Organizing**
+* [AMS Spring Central Sectional Meeting (2020)](http://www.ams.org/meetings/sectional/2280_program.html) -- *Cancelled due to COVID-19*
 
 **Invited Presentations**
 * Wavelets and Sparsity XVIII <br/>

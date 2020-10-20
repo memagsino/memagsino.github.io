@@ -27,21 +27,21 @@ This list includes:
 
 **Gaming**
 
-I am also a big fan of gaming and esports. I mainly follow League of Legends
-and Counter-Strike: Global Offensive where my favorite teams are
-[Counter Logic Gaming](https://www.clg.gg/) and 
-[Team Liquid](https://www.teamliquid.com/) respectively. For online gaming,
-I currently mostly play [Final Fantasy XIV](https://na.finalfantasyxiv.com/lodestone/character/21553560/). My main class is a level 80 Gunbreaker. 
-Other online games I've played or sometimes still play include
-[League of Legends](https://na.leagueoflegends.com/en/), 
-[Counter-Strike: Global Offensive](https://blog.counter-strike.net/),
-and a large variety of MMOs 
-including [EverQuest](https://www.everquest.com/home)!
-I rarely stream, but on occasion I will stream some endgame FFXIV content or
-other random games on [Twitch](https://www.twitch.tv/prof_zelareth).
+I am also a lifelong gamer. For online games, I currently mostly play
+[Final Fantasy XIV](https://na.finalfantasyxiv.com/lodestone/character/21553560/) or [Valorant](https://playvalorant.com/en-us/).
+My main in FFXIV is a level 80 Gunbreaker and my favorite agent in Valorant
+is Cypher.
+In general, I play a variety of MMOs and FPS, and I also used to play
+[League of Legends](https://na.leagueoflegends.com/en/) and was a
+closed beta tester in 2009.
+I stream [Twitch](https://www.twitch.tv/prof_zelareth)
+inconsistently, but I stream some endgame FFXIV content,
+shogi, or
+other games.
 
-I am also a fan of FromSoftware's games such as Armored Core and Dark Souls. 
-Though I play many genres of games, my favorite is JRPGs and my favorite series
+My favorite studio is FromSoftware, and I am particularly a fan of 
+Armored Core and Dark Souls. 
+I play many genres of games, but my favorite is JRPGs and my favorite series
 is the [Tales of](https://aselia.fandom.com/wiki/Main_Page) series.
 I have finished 9 out of the 16 flagship titles to date: 
 [Phantasia](https://en.wikipedia.org/wiki/Tales_of_Phantasia), 
@@ -53,3 +53,26 @@ I have finished 9 out of the 16 flagship titles to date:
 [Xillia 2](https://en.wikipedia.org/wiki/Tales_of_Xillia_2), 
 [Zestiria](https://en.wikipedia.org/wiki/Tales_of_Zestiria), 
 and [Berseria](https://en.wikipedia.org/wiki/Tales_of_Berseria).
+
+**Shogi**
+
+The Japanese variant of chess is known as 
+[Shogi](https://en.wikipedia.org/wiki/Shogi). 
+The primary difference is that captured pieces may be played by the capturing
+player during their turn. This leads to exciting endgames which are often
+races to capture the opponent's king, and draws are very rare. Although
+no longer maintained,
+[HIDETCHI's](https://www.youtube.com/watch?v=Pkz0LVBg0W4&list=PL587865CAE59EB84A)
+YouTube channel is the best place for English speakers to learn Shogi.
+
+The best places to play online are
+[Shogi Wars](https://shogiwars.heroz.jp/?locale=en) and
+[81Dojo](https://81dojo.com/). Both are officially partnered with the
+Japanese Shogi Association and your rank in these apps can be made official
+through the JSA! The lowest rank that can be certified is 6-kyu after which
+the ranks increase with descending numbers; i.e. the next rank is 5-kyu,
+then 4-kyu, and so on. After 1-kyu the next rank is 1-dan after which it
+counts upwards to 5-dan. You can think of 1-dan as the equivalent of a
+"first-degree black belt" in martial arts.
+
+I mostly play on Shogi Wars (10+0 time format) and am currently ranked 2-kyu.
