@@ -23,13 +23,3 @@ under the guidance of
 years at 
 [Carnegie Mellon University](https://www.cmu.edu/math/index.html), where I
 graduated in 2012 with a BS in Mathematics and Japanese Studies.
-
-I am from [Franklin Park, NJ](https://goo.gl/maps/7bDFknFXmubQG2js8), 
-and I am a first generation 
-Filipino-American.
-My mom is from
-[Quezon City](https://en.wikipedia.org/wiki/Quezon_City) and my dad is from
-[Makati](https://en.wikipedia.org/wiki/Makati); both are part of the
-Metro Manila area. My main hobbies are anime, gaming, and shogi (Japanese
-chess). If you are curious you can read more about them
-[here]({{site.url}}/misc/).
