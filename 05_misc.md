@@ -31,7 +31,7 @@ I am also a big fan of gaming and esports. I mainly follow Valoarant though
 I still kind of follow the League of Legends scene. For online gaming,
 I currently mostly play Riot Games' new FPS [Valorant](playvalorant.com/en-us)
 but occasionally I'll play [Overwatch](playoverwatch.com/en-us/) or 
-([Final Fantasy XIV](https://na.finalfantasyxiv.com/lodestone/character/21553560/) with friends. Other online games I've played but don't play much anymore 
+[Final Fantasy XIV](https://na.finalfantasyxiv.com/lodestone/character/21553560/) with friends. Other online games I've played but don't play much anymore 
 include
 [League of Legends](https://na.leagueoflegends.com/en/), 
 [Counter-Strike: Global Offensive](https://blog.counter-strike.net/),
