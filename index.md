@@ -23,3 +23,8 @@ under the guidance of
 years at 
 [Carnegie Mellon University](https://www.cmu.edu/math/index.html), where I
 graduated in 2012 with a BS in Mathematics and Japanese Studies.
+
+I am from [Franklin Park, NJ](https://goo.gl/maps/FFr7jRkiyjX999x66) 
+and I am Filipino-American.  My main hobbies are anime, gaming, and occasionaly
+Shogi (Japanese chess). If you are curious you can read more about it
+[here]({{site.url}}/misc).
