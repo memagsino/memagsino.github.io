@@ -27,18 +27,18 @@ This list includes:
 
 **Gaming**
 
-I am also a big fan of gaming and esports. I mainly follow League of Legends
-and Counter-Strike: Global Offensive where my favorite teams are
-[Counter Logic Gaming](https://www.clg.gg/) and 
-[Team Liquid](https://www.teamliquid.com/) respectively. For online gaming,
-I currently mostly play [Final Fantasy XIV](https://na.finalfantasyxiv.com/lodestone/character/21553560/). My main class is a level 80 Gunbreaker. 
-Other online games I've played or sometimes still play include
+I am also a big fan of gaming and esports. I mainly follow Valoarant though
+I still kind of follow the League of Legends scene. For online gaming,
+I currently mostly play Riot Games' new FPS [Valorant](playvalorant.com/en-us)
+but occasionally I'll play [Overwatch](playoverwatch.com/en-us/) or 
+([Final Fantasy XIV](https://na.finalfantasyxiv.com/lodestone/character/21553560/) with friends. Other online games I've played but don't play much anymore 
+include
 [League of Legends](https://na.leagueoflegends.com/en/), 
 [Counter-Strike: Global Offensive](https://blog.counter-strike.net/),
 and a large variety of MMOs 
 including [EverQuest](https://www.everquest.com/home)!
-I rarely stream, but on occasion I will stream some endgame FFXIV content or
-other random games on [Twitch](https://www.twitch.tv/prof_zelareth).
+I stream somewhat erratically, but on occasion I will stream some random games 
+on [Twitch](https://www.twitch.tv/prof_zelareth).
 
 I am also a fan of FromSoftware's games such as Armored Core and Dark Souls. 
 Though I play many genres of games, my favorite is JRPGs and my favorite series
