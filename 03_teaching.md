@@ -16,8 +16,8 @@ Unless otherwise indicated, classes are taught as primary instructor.
 
 **The Ohio State University**
 
-Spring 2021 - [Math 4551: Vector Analysis](https://math.osu.edu/courses/4551)
-Fall 2020 - [Math 4551: Vector Analysis](https://math.osu.edu/courses/4551)
+Spring 2021 - [Math 4551: Vector Analysis](https://math.osu.edu/courses/4551)<br/>
+Fall 2020 - [Math 4551: Vector Analysis](https://math.osu.edu/courses/4551)<br/>
 Spring 2020 - [Math 2255: Differential Equations and Their Applications](https://math.osu.edu/courses/2255) <br/>
 Fall 2019 - [Math 3345: Foundations of Higher Mathematics](https://math.osu.edu/courses/3345) <br/>
 Spring 2019 - [Math 2415: Ordinary and Partial Differential Equations](https://math.osu.edu/courses/2415) <br/>
