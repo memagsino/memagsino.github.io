@@ -1,7 +1,7 @@
 ---
-layout: page
-title: CAZACs
-permalink: /cazac/
+#layout: page
+#title: CAZACs
+#permalink: /cazac/
 ---
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
