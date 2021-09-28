@@ -1,7 +1,7 @@
 ---
-layout: page
-title: Misc
-permalink: /misc/
+#layout: page
+#title: Misc
+#permalink: /misc/
 ---
 **Japanese Anime**
 
