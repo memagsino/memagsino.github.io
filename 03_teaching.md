@@ -9,13 +9,15 @@ Unless otherwise indicated, classes are taught as primary instructor.
 <br/>
 \* *denotes classes taught as a teaching assistant*
 
-**This semester (Fall 2020)**
+**This semester (Fall 2021)**
 
 [Math 4551: Vector Analysis](https://math.osu.edu/courses/4551)
-([Carmen](https://osu.instructure.com/courses/85391) link for students)
+([Carmen](https://osu.instructure.com/courses/109187) link for students)
 
 **The Ohio State University**
 
+Spring 2021 - [Math 4551: Vector Analysis](https://math.osu.edu/courses/4551)
+Fall 2020 - [Math 4551: Vector Analysis](https://math.osu.edu/courses/4551)
 Spring 2020 - [Math 2255: Differential Equations and Their Applications](https://math.osu.edu/courses/2255) <br/>
 Fall 2019 - [Math 3345: Foundations of Higher Mathematics](https://math.osu.edu/courses/3345) <br/>
 Spring 2019 - [Math 2415: Ordinary and Partial Differential Equations](https://math.osu.edu/courses/2415) <br/>
@@ -42,6 +44,9 @@ Fall 2012 - [21-120: Differential and Integral Calculus<sup>\*</sup>](http://cou
 
 **Undergradute Research Mentorship**
 
+* Yixin Xu (Fall 2021): Project on exploring CAZAC sequences of length 10
+and 11 <br/>
+
 * Abhishek Vijaykumar (Fall 2019): Project on bianguar Gabor frames and
 Zauner's conjecture <br/>
 
@@ -59,6 +64,4 @@ through the UMD Math Department's
 * Christopher Osterman (2016): A Philosophical Enquiry of ZFC
 
 I also mentored a high school student, June Richardson, for a capstone
-math project. They are writing a textbook on fractal analysis aimed at
-recreational mathematicians. I will ask permission to host it here when
-it is finished so stay tuned!
+math project on fractal analysis.
