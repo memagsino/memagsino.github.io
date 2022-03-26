@@ -9,7 +9,7 @@ Unless otherwise indicated, classes are taught as primary instructor.
 <br/>
 \* *denotes classes taught as a teaching assistant*
 
-**This semester (Spring 2021)**
+**This semester (Spring 2022)**
 
 [Math 1172: Vector Analysis](https://math.osu.edu/courses/1172)
 
