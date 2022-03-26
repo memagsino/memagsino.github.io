@@ -9,13 +9,13 @@ Unless otherwise indicated, classes are taught as primary instructor.
 <br/>
 \* *denotes classes taught as a teaching assistant*
 
-**This semester (Fall 2021)**
+**This semester (Spring 2021)**
 
-[Math 4551: Vector Analysis](https://math.osu.edu/courses/4551)
-([Carmen](https://osu.instructure.com/courses/109187) link for students)
+[Math 1172: Vector Analysis](https://math.osu.edu/courses/1172)
 
 **The Ohio State University**
 
+Fall 2021 - [Math 4551: Vector Analysis](https://math.osu.edu/courses/4551)<br/>
 Spring 2021 - [Math 4551: Vector Analysis](https://math.osu.edu/courses/4551)<br/>
 Fall 2020 - [Math 4551: Vector Analysis](https://math.osu.edu/courses/4551)<br/>
 Spring 2020 - [Math 2255: Differential Equations and Their Applications](https://math.osu.edu/courses/2255) <br/>
@@ -44,8 +44,7 @@ Fall 2012 - [21-120: Differential and Integral Calculus<sup>\*</sup>](http://cou
 
 **Undergradute Research Mentorship**
 
-* Yixin Xu (Fall 2021): Project on exploring CAZAC sequences of length 10
-and 11 <br/>
+* Yixin Xu (Fall 2021): Project on exploring CAZAC sequences of length 10<br/>
 
 * Abhishek Vijaykumar (Fall 2019): Project on bianguar Gabor frames and
 Zauner's conjecture <br/>

@@ -12,9 +12,10 @@ I am a Research Visiting Assistant Professor in the
 at the Ohio State University. My research main research area is
 applied harmonic analysis. In particular, I study frame theory and its
 applications to signal and image processing, data science, compressive sensing,
-and optimal line packings.
+and optimal line packings. In the fall, I will be starting a new position
+at the [US Naval Academy](https://www.usna.edu/MathDept/index.php)
 Here is a link to my
-[CV]({{site.url}}/mmagsino_cv.pdf). (Last updated: 10/15/20)
+[CV]({{site.url}}/mmagsino_cv.pdf). (Last updated: 3/26/22)
 
 I received my PhD in 2018 at the 
 [University of Maryland](https://www-math.umd.edu/)
