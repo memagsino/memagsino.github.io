@@ -7,20 +7,22 @@ layout: page
 <img src="mmagsino_pic.jpg"
      style="float: left; margin-right: 10px;" />
 
-I am a Research Visiting Assistant Professor in the 
-[Department of Mathematics](https://math.osu.edu/)
-at the Ohio State University. My research main research area is
+I am an Assistant Professor in the 
+[Mathematics Department](https://www.usna.edu/MathDept/index.php)
+at the US Naval Academy. My research main research area is
 applied harmonic analysis. In particular, I study frame theory and its
 applications to signal and image processing, data science, compressive sensing,
-and optimal line packings. In the fall, I will be starting a new position
-at the [US Naval Academy](https://www.usna.edu/MathDept/index.php)
-Here is a link to my
+and optimal line packings.
 [CV]({{site.url}}/mmagsino_cv.pdf). (Last updated: 3/26/22)
 
 I received my PhD in 2018 at the 
 [University of Maryland](https://www-math.umd.edu/)
 under the guidance of 
-[John J. Benedetto](https://www.math.umd.edu/~jjb/). I spent my undergraduate
+[John J. Benedetto](https://www.math.umd.edu/~jjb/). 
+After my PhD, I was a postdoc at [Ohio State University](https://math.osu.edu/)
+for four years working with 
+[Dustin Mixon](https://people.math.osu.edu/mixon.23/).
+I spent my undergraduate
 years at 
 [Carnegie Mellon University](https://www.cmu.edu/math/index.html), where I
 graduated in 2012 with a BS in Mathematics and Japanese Studies.
