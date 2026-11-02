@@ -14,8 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Mark Magsino
-email: magsino.2@osu.edu
-description: "The Ohio State University / Department of Mathematics / MW 746"
+email: memagsino@gmail.com
+description: "United States Naval Academy / Mathematics Department / CH310"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://memagsino.github.io"
 # Build settings

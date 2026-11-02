@@ -13,7 +13,7 @@ at the U.S. Naval Academy. My main research area is
 applied harmonic analysis. In particular, I study frame theory and its
 applications to signal and image processing, data science, compressive sensing,
 and optimal line packings.
-[CV]({{site.url}}/mmagsino_cv.pdf). (Last updated: 8/9/22)
+[CV]({{site.url}}/memagsino_cv.pdf). (Last updated: 11/2/2026)
 
 I received my PhD in 2018 at the 
 [University of Maryland](https://www-math.umd.edu/)
