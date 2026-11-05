@@ -14,13 +14,18 @@ especially Gabor frame theory and its generalizations.
 [Google Scholar](https://scholar.google.com/citations?user=MIJKwSYAAAAJ&hl=en)
 <br/> [arXiv](https://arxiv.org/search/?searchtype=author&query=Magsino%2C+M)
 
+**Preprints**
+* [Cross-correlation periodograms with decaying noise floor for power spectral density estimation](https://arxiv.org/abs/2603.20624)
+<br/>
+2026.
+
 **Journal Articles**
 * [Kesten-McKay law for random subensembles of Paley equiangular tight 
 frames](https://arxiv.org/abs/1905.04360) 
 <br/> (with 
 [Dustin G. Mixon](https://people.math.osu.edu/mixon.23/)
 and [Hans Parshall](http://www.hansparshall.com/))
-<br/> *Constructive Approximation*, 2020.
+<br/> *Constructive Approximation*, 53: pp. 381-402, 2021.
 
 * [Constructing tight Gabor frames 
 using CAZAC sequences](https://arxiv.org/abs/1611.00818)
@@ -36,8 +41,45 @@ using CAZAC sequences](https://arxiv.org/abs/1611.00818)
 *New Trends in Applied Harmonic Analysis, Volume II: 
 Harmonic Analysis, Geometric Measure Theory, and Applications*, 2019
 
+**Refereed Conference Papers**
+* (Root-of-unity CAZAC sequences: Extensive search and Doppler tolerance)[https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11205115]
+<br/>
+(with
+Bill Correll, Jon Russo, and Christopher N. Swanson)
+<br/>
+*2025 IEEE Radar Conference (RadarConf25)*
+
+* [A polar optimization search for CAZAC sequences](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10549571)
+<br/>
+(with
+Bill Correll)
+<br/>
+*2024 IEEE Radar Conference (RadarConf24)*
+
+* [Preserving human large-scale brain connectivity fingerprint identifiability with random projections](https://pmc.ncbi.nlm.nih.gov/articles/PMC11452154/)
+<br/>
+(with
+Duy Duong-Tran, Joaquín Goñi, and Li Shen)
+<br/>
+*IEEE International Symposium on Biomedical Imaging (ISBI) 2024*
+
+* [A nonlinear sum of squares search for CAZAC sequences](https://arxiv.org/abs/2210.14827)
+<br/>
+(with 
+Yixin Xu, Undergraduate at Ohio State)
+<br/>
+*2023 IEEE Radar Conference (RadarConf23)*
+
+* [A Delsarte-style proof of the Bukh--Cox bound](https://arxiv.org/abs/1902.00926)
+<br/>
+(with 
+[Dustin G. Mixon](https://people.math.osu.edu/mixon.23/)
+and [Hans Parshall](http://www.hansparshall.com/))
+<br/>
+*International Conference on Sampling Theory and Applications (SampTA) 2019*
+
 **Conference Proceedings**
-* [Linear progamming bounds for cliques in Paley graphs](https://arxiv.org/abs/1907.05971)
+* [Linear programming bounds for cliques in Paley graphs](https://arxiv.org/abs/1907.05971)
 <br/>
 (with 
 [Dustin G. Mixon](https://people.math.osu.edu/mixon.23/)
@@ -51,11 +93,3 @@ and [Hans Parshall](http://www.hansparshall.com/))
 [Dustin G. Mixon](https://people.math.osu.edu/mixon.23/))
 <br/>
 *SPIE Optics + Photonics 2019*
-
-* [A Delsarte-style proof of the Bukh--Cox bound](https://arxiv.org/abs/1902.00926)
-<br/>
-(with 
-[Dustin G. Mixon](https://people.math.osu.edu/mixon.23/)
-and [Hans Parshall](http://www.hansparshall.com/))
-<br/>
-*International Conference on Sampling Theory and Applications (SampTA) 2019*

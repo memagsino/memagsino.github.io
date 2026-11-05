@@ -27,23 +27,19 @@ This list includes:
 
 **Gaming**
 
-I am also a big fan of gaming and esports. I mainly follow Valoarant though
-I still kind of follow the League of Legends scene. For online gaming,
-I currently mostly play Riot Games' new FPS [Valorant](https://playvalorant.com/en-us)
-but occasionally I'll play [Overwatch](https://playoverwatch.com/en-us/) or 
-[Final Fantasy XIV](https://na.finalfantasyxiv.com/lodestone/character/21553560/) with friends. Other online games I've played but don't play much anymore 
-include
+In my earlier years I was a big fan of esports. I mainly followed Valoarant and League of Legends and keep tabs sometimes. For online gaming, I've played
+[Valorant](https://playvalorant.com/en-us),
+[Overwatch](https://playoverwatch.com/en-us/),
+[Final Fantasy XIV](https://na.finalfantasyxiv.com/lodestone/character/21553560/),
 [League of Legends](https://na.leagueoflegends.com/en/), 
 [Counter-Strike: Global Offensive](https://blog.counter-strike.net/),
-and a large variety of MMOs 
-including [EverQuest](https://www.everquest.com/home)!
-I stream somewhat erratically, but on occasion I will stream some random games 
-on [Twitch](https://www.twitch.tv/prof_zelareth).
+mostly with friends. I used to be an avid MMO player
+spending a lot of time on [EverQuest](https://www.everquest.com/home) growing up.
 
 I am also a fan of FromSoftware's games such as Armored Core and Dark Souls. 
 Though I play many genres of games, my favorite is JRPGs and my favorite series
 is the [Tales of](https://aselia.fandom.com/wiki/Main_Page) series.
-I have finished 9 out of the 16 flagship titles to date: 
+I have finished 10 out of the 17 flagship titles to date: 
 [Phantasia](https://en.wikipedia.org/wiki/Tales_of_Phantasia), 
 [Sympohnia](https://en.wikipedia.org/wiki/Tales_of_Symphonia),
 [Abyss](https://en.wikipedia.org/wiki/Tales_of_the_Abyss), 
@@ -52,4 +48,5 @@ I have finished 9 out of the 16 flagship titles to date:
 [Xillia](https://en.wikipedia.org/wiki/Tales_of_Xillia), 
 [Xillia 2](https://en.wikipedia.org/wiki/Tales_of_Xillia_2), 
 [Zestiria](https://en.wikipedia.org/wiki/Tales_of_Zestiria), 
-and [Berseria](https://en.wikipedia.org/wiki/Tales_of_Berseria).
+[Berseria](https://en.wikipedia.org/wiki/Tales_of_Berseria),
+[Arise](https://en.wikipedia.org/wiki/Tales_of_Arise).
