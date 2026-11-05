@@ -11,10 +11,10 @@ Cousre descriptions available in the [USNA Mathematics Department course
 catalog](https://www.usna.edu/MathDept/academics/Course_Catalog/index.php)
 
 SM121: Calculus I <br/>
-SM208: Data Science for Decision Makers <br/>
+SM208: Data Science for Decision Makers -
 *Introductory Python course for humanities majors. Course coordinator, 6 semesters.* <br/>
 SM223: Calculus III with Optimization <br/>
-SM263: Applied Linear Algebra <br/>
+SM263: Applied Linear Algebra -
 *Core course tailored to the Data Science major.* <br/>
 SM361: Linear Algebra II
 

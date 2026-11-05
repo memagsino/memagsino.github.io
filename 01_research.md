@@ -42,7 +42,7 @@ using CAZAC sequences](https://arxiv.org/abs/1611.00818)
 Harmonic Analysis, Geometric Measure Theory, and Applications*, 2019
 
 **Refereed Conference Papers**
-* (Root-of-unity CAZAC sequences: Extensive search and Doppler tolerance)[https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11205115]
+* [Root-of-unity CAZAC sequences: Extensive search and Doppler tolerance](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11205115)
 <br/>
 (with
 Bill Correll, Jon Russo, and Christopher N. Swanson)
